@@ -19,7 +19,7 @@
 ### Encontre-me por aqui  👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-HumbertoBarone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/humberto-barone/)](https://www.linkedin.com/in/humberto-barone/)
-[![Outlook Badge](https://img.shields.io/badge/-humberto.barone.dev@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humberto_barone@hotmail.com)](mailto:humberto_barone@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-humberto.barone.dev@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humberto.barone.dev@gmail.com)](mailto:humberto.barone.dev@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/h1barone/)](https://www.instagram.com/h1barone/)
 
 
