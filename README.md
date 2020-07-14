@@ -9,7 +9,7 @@
 💻 Sou Desenvolvedor Front-End na Codeby 🏠 Brasileiro 📍 São Paulo 🌎 Brasil
 
 💻 Atualmente trabalhando com Vtex e ReactJS<br>
-📚 Estudando me aprofundando mais sobre ReactJS <br>
+📚 Estudando e me aprofundando mais sobre ReactJS <br>
 🎓 Concluindo este ano a graduação em Ciências da Computação<br>
 💡  Faço parte de uma equipe de desenvolvimento chamada ICoders<br>
 🎮 Vidrado em games..<br>
