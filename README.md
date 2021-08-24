@@ -6,7 +6,7 @@
 
 ### Olá! Sou Humberto, mas podem me chamar de h1 ⚡ 
 
-💻 Sou Desenvolvedor Front-End na Codeby 🏠 Brasileiro 📍 São Paulo 🌎 Brasil
+💻 Sou Squad Dev Lead e Desenvolvedor Front-End na Codeby 🏠 Brasileiro 📍 São Paulo 🌎 Brasil
 
 💻 Atualmente trabalhando com Vtex e ReactJS<br>
 📚 Estudando e me aprofundando mais sobre ReactJS <br>
