@@ -6,12 +6,12 @@
 
 ### Olá! Sou Humberto, mas podem me chamar de h1 ⚡ 
 
-💻 Sou Squad Dev Lead e Desenvolvedor Front-End na Codeby 🏠 Brasileiro 📍 São Paulo 🌎 Brasil
+💻 Sou Tech Coordinator e Desenvolvedor Front-End na Codeby 🏠 Brasileiro 📍 São Paulo 🌎 Brasil
 
 💻 Atualmente trabalhando com Vtex e ReactJS<br>
 📚 Estudando e me aprofundando mais sobre ReactJS <br>
-🎓 Concluindo este ano a graduação em Ciências da Computação<br>
-💡  Faço parte de uma equipe de desenvolvimento chamada ICoders<br>
+🎓 Graduado em Ciências da Computação<br>
+💡 Faço parte de uma equipe de desenvolvimento chamada ICoders<br>
 🎮 Vidrado em games..<br>
 👻 e main adc no lolzinho xD
 
