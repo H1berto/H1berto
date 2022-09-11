@@ -8,8 +8,8 @@
 
 💻 Sou Tech Coordinator e Desenvolvedor Front-End na Codeby 🏠 Brasileiro 📍 São Paulo 🌎 Brasil
 
-💻 Atualmente trabalhando com Vtex e ReactJS<br>
-📚 Estudando e me aprofundando mais sobre ReactJS <br>
+💻 Atualmente trabalhando com Front-end VTEX<br>
+📚 Estudando e me aprofundando mais sobre Vtex Fast Store e NextJS<br>
 🎓 Graduado em Ciências da Computação<br>
 💡 Faço parte de uma equipe de desenvolvimento chamada ICoders<br>
 🎮 Vidrado em games..<br>
