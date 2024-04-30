@@ -6,11 +6,11 @@
 
 ### Olá! Sou Humberto, mas podem me chamar de h1 ⚡ 
 
-💻 Sou Desenvolvedor Front-End na Codeby 🏠 Brasileiro 📍 São Paulo 🌎 Brasil
+💻 Sou Desenvolvedor Full Stack na Codeby 🏠 Brasileiro 📍 São Paulo 🌎 Brasil
 
-💻 Atualmente trabalhando com Front-end VTEX<br>
+💻 Atualmente trabalhando com VTEX, DecoCX e Shopify<br>
 📚 Estudando e me aprofundando mais sobre Vtex Fast Store e NextJS<br>
-🎓 Graduado em Ciências da Computação<br>
+🎓 Graduado em Ciências da Computação e Tecnico em Informática com foco em programação<br>
 🎮 Vidrado em games<br>
 
 
